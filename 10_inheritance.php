@@ -1,7 +1,5 @@
 <?php
 
-use Car as GlobalCar;
-
 class Car{
     public $name;
     public $color;
